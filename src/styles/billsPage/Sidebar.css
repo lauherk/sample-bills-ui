@@ -1,0 +1,9 @@
+.sidebar-container {
+  width: 30%;
+  flex: 1;
+  text-align: center;
+  margin: 12px;
+}
+
+.veto-btn {
+}

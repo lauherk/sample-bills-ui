@@ -1,0 +1,26 @@
+.table-container {
+  width: 70%;
+  height: 100%;
+  flex: 5;
+  margin: 6px;
+  /* float: right; */
+}
+
+.date-col {
+  width: 15%;
+}
+.measure-col {
+  width: 15%;
+}
+.status-col {
+  width: 10%;
+}
+.support-percent-col {
+  width: 10%;
+}
+.link-col {
+  width: 10%;
+}
+.related-col {
+  width: 40%;
+}

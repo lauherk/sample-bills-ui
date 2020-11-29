@@ -1,0 +1,8 @@
+.bills-main {
+  display: flex;
+  padding: 12px;
+  height: 100%;
+}
+.vl {
+  border-left: 1px solid rgba(224, 224, 224, 1);
+}
